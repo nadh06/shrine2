@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
       // TODO: Add trailing buttons (102)
       ),
       // TODO: Add a grid view (102)
-      body: Center(
+      body: const Center(
         child: Text('You did it!'),
       ),
       // TODO: Set resizeToAvoidBottomInset (101)
